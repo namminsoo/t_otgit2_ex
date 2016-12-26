@@ -4,6 +4,4 @@
 dsadasdas
 dsadsadsadasdsa
 
-sss
-
-sss
+test make
